@@ -22,6 +22,9 @@ Automate the following workflow:
 - **Selenium WebDriver**
 - **Page Object Model (POM)**
 - **Page Factory**
+
+
+  
 ![image](https://github.com/user-attachments/assets/96e1474f-e30a-415d-936c-762a8a4d034d)
 
 ## 🗂️ **Project Structure**
